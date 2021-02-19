@@ -21,9 +21,9 @@ pip install oitool
 ### To start fetching option open interest data and push it to influxDB
 ```python
 from oitool.fetchoi import FetchOI
-testObj = FetchOI()
-t.subscribe(symbol="NIFTY") #to set stock ticker
-t.start()
+oi = FetchOI()
+oi.subscribe(symbol="NIFTY") #to set stock ticker
+oi.start()
 ```
 
 ## Contributing
