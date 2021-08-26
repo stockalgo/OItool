@@ -3,8 +3,8 @@
 
 
 
-<p align="center"><a href="http://bandl.io/oitool" target="_blank"><img src="https://raw.githubusercontent.com/stockalgo/OItool/main/demo/bar.gif"></a> </p>
-<p align="center"><a href="http://bandl.io/oitool" target="_blank"><img src="https://raw.githubusercontent.com/stockalgo/OItool/main/demo/chart.gif"></a> </p>
+<p align="center"><a href="http://bandl.io/oitool.html" target="_blank"><img src="https://raw.githubusercontent.com/stockalgo/OItool/main/demo/bar.gif"></a> </p>
+<p align="center"><a href="http://bandl.io/oitool.html" target="_blank"><img src="https://raw.githubusercontent.com/stockalgo/OItool/main/demo/chart.gif"></a> </p>
 
 <br/><hr/>
 # Installation
